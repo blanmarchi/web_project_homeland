@@ -15,4 +15,4 @@ Galeria de arte online que apresenta histórias e fotos de pessoas de diferentes
 
 ## Link do projeto
 
-[GitHub Pages](URL_AQUI)
+[GitHub Pages](https://blanmarchi.github.io/web_project_homeland/)
