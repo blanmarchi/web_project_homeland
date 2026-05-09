@@ -1,9 +1,6 @@
 .intro {
   width: 830px;
-  margin-top: 90px;
-  margin-bottom: 90px;
-  margin-left: 148px;
-  margin-right: auto;
+  margin: 90px auto 90px 148px;
   padding: 0;
   text-align: left;
 }
